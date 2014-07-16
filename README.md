@@ -21,7 +21,7 @@ You can look at my blog post as a starting point to get a sense of the problem:
 
 This project will involve unsupervised as well as supervised learning, feature generation, possibly some Fourier space voodoo, signal processing and a chance to work with tons of real data, of course!
 
-From email from Sudeep Das
+*From email from Sudeep Das*
 
 ### Project Deliverables
 
