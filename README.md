@@ -17,7 +17,7 @@ As a Data Scientist at OpenTable, my computer screen often fills up with images 
 
 You can look at my blog post as a starting point to get a sense of the problem: 
 
-(http://datamusing.info/blog/2014/07/06/detecting-people-in-photographs-using-skin-tone/)
+http://datamusing.info/blog/2014/07/06/detecting-people-in-photographs-using-skin-tone/
 
 This project will involve unsupervised as well as supervised learning, feature generation, possibly some Fourier space voodoo, signal processing and a chance to work with tons of real data, of course!
 
@@ -25,4 +25,4 @@ This project will involve unsupervised as well as supervised learning, feature g
 
 ### Project Deliverables
 
-Add 
+*Maybe - A google doc/IPython notebook interface where a user can upload a list of picture files and get a selection of those containing/not containing faces, possibly an additional display for these pictures*
