@@ -1,4 +1,4 @@
-# CDIPS Workshop 2014: Food vs. Skin project, mentor: Dr. Sudeep Das (OpenTable)
+# CDIPS Workshop 2014: Food vs. Skin
 
 ## Project Description
 
