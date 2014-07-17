@@ -29,9 +29,9 @@ An interface where a user can upload a list of picture files and get a classific
 
 This entails the following:
 
-1 Develop data prep algorithm
+1. Develop data prep algorithm
   * Check data quality
-2 Modeling approaches
+2. Modeling approaches
   * Using machine learning (supervised and/or unsupervised) to classify the pictures
-3 Optimal algorithm implementation and evaluation
+3. Optimal algorithm implementation and evaluation
   * Evaluating the algorithm on an independent test set
