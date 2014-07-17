@@ -25,4 +25,13 @@ This project will involve unsupervised as well as supervised learning, feature g
 
 ### Project Deliverables
 
-*Maybe - A google doc/IPython notebook interface where a user can upload a list of picture files and get a selection of those containing/not containing faces, possibly an additional display for these pictures*
+An interface where a user can upload a list of picture files and get a classification of those containing/not containing skin.
+
+This entails the following:
+
+1 Develop data prep algorithm
+  * Check data quality
+2 Modeling approaches
+  * Using machine learning (supervised and/or unsupervised) to classify the pictures
+3 Optimal algorithm implementation and evaluation
+  * Evaluating the algorithm on an independent test set
